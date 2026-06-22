@@ -38,7 +38,7 @@ I'm a **Full-Stack Developer** focused on building modern, fast, and impactful w
 
 ## Technologies I Use
 
-### Frontend & Backend
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"/> Frontend & Backend
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
@@ -53,7 +53,7 @@ I'm a **Full-Stack Developer** focused on building modern, fast, and impactful w
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-### Styling & UI
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20"/> Styling & UI
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
@@ -65,7 +65,7 @@ I'm a **Full-Stack Developer** focused on building modern, fast, and impactful w
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-### State, Data & Tools
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> State, Data & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
