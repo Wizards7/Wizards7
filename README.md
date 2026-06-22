@@ -73,7 +73,6 @@ I'm a **Full-Stack Developer** focused on building modern, fast, and impactful w
   <img src="https://img.shields.io/badge/TanStack_Router-EF4444?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -153,12 +152,16 @@ A professional social network for users to connect and grow.
 
 <div align="center">
 
-<a href="https://github.com/alijontoshev">
+<a href="https://github.com/Wizards7" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/alijon-toshev">
+<a href="https://www.linkedin.com/in/alijon-toshev" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/alijon32" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
