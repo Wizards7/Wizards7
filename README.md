@@ -86,29 +86,29 @@ I'm a **Full-Stack Developer** focused on building modern, fast, and impactful w
 <tr>
 <td width="50%">
 
-### RentTime
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20"/> RentTime
 
 A car-sharing platform built for the city of Dushanbe.
 
 **Features:**
-- Map integration with Dushanbe geofencing
-- Real-time rental booking system
-- Admin panel for fleet management
-- Stack: Next.js, PostgreSQL, Node.js
+▸ Map integration with Dushanbe geofencing<br/>
+▸ Real-time rental booking system<br/>
+▸ Admin panel for fleet management<br/>
+▸ Stack: Next.js, PostgreSQL, Node.js
 
 </td>
 
 <td width="50%">
 
-### Instagram Clone
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Instagram Clone
 
 A modern Instagram-like clone with core social features.
 
 **Features:**
-- Photo posting and likes
-- User follow system
-- Fully responsive design
-- Stack: Next.js, TanStack Query, PostgreSQL
+▸ Photo posting and likes<br/>
+▸ User follow system<br/>
+▸ Fully responsive design<br/>
+▸ Stack: Next.js, TanStack Query, PostgreSQL
 
 </td>
 </tr>
@@ -116,29 +116,29 @@ A modern Instagram-like clone with core social features.
 <tr>
 <td width="50%">
 
-### E-Commerce Store
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> E-Commerce Store
 
 An online store focused on clean UI and smooth UX.
 
 **Features:**
-- Shopping cart functionality
-- Product filtering & search
-- Material UI design system
-- Fast and intuitive interface
+▸ Shopping cart functionality<br/>
+▸ Product filtering & search<br/>
+▸ Material UI design system<br/>
+▸ Fast and intuitive interface
 
 </td>
 
 <td width="50%">
 
-### LinkedIn Clone
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn Clone
 
 A professional social network for users to connect and grow.
 
 **Features:**
-- Professional profile builder
-- Article and post publishing
-- App Router architecture
-- Stack: Next.js & Redux Toolkit
+▸ Professional profile builder<br/>
+▸ Article and post publishing<br/>
+▸ App Router architecture<br/>
+▸ Stack: Next.js & Redux Toolkit
 
 </td>
 </tr>
