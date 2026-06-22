@@ -2,75 +2,84 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6a00ff,100:00d4ff&text=Alijon%20Toshev&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Next.js%20•%20Node.js&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+from+Tajikistan+🇹🇯;React+%2B+Next.js+Expert;Building+Scalable+Web+Applications;Node.js+%2B+PostgreSQL+Backend;Open+for+Collaboration+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+from+Tajikistan;React+%2B+Next.js+Expert;Building+Scalable+Web+Applications;Node.js+%2B+PostgreSQL+Backend;Open+for+Collaboration"/>
 
 </div>
 
 ---
 
-# 💫 Дар бораи ман
+# About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 👨‍💻 Ман кӣ ҳастам?
+### Who am I?
 
-🚀 **Full-Stack Developer** ҳастам, ки ба сохтани веб-барномаҳои муосир, тезкор ва фоидаовар тамаркуз мекунам. 
+I'm a **Full-Stack Developer** focused on building modern, fast, and impactful web applications.
 
-✨ Ман ба сохтани инҳо шавқ дорам:
-- Архитектураи тозаи Frontend ва Backend
-- Системаҳои мураккаби идоракунӣ
-- Лоиҳаҳои Full-stack бо Next.js ва PostgreSQL
-- UI/UX-и муосир бо Tailwind ва Material UI
+**I love building:**
+- Clean Frontend & Backend architectures
+- Complex management systems
+- Full-stack projects with Next.js and PostgreSQL
+- Modern UI/UX with Tailwind and shadcn/ui
 
-🌍 Дар шаҳри **Душанбе, Тоҷикистон 🇹🇯** зиндагӣ мекунам.
+**Based in** Dushanbe, Tajikistan
 
-💡 Ҳоло маҳоратҳои худро дар ин самтҳо сайқал медиҳам:
+**Currently sharpening my skills in:**
 - Next.js App Router
 - Advanced TypeScript
 - Database Optimization
 - Docker & Deployment
 
-⚡️ Ҳадаф:
-Сохтани маҳсулоти рақамие, ки мушкилоти воқеиро ҳал мекунанд.
+**Goal:** Building digital products that solve real-world problems.
 
 <br clear="right"/>
 
 ---
 
-## 🧩 Технологияҳое, ки истифода мебарам:
+## Technologies I Use
 
-### 🌐 Frontend & Backend
+### Frontend & Backend
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-### 🎨 Styling & UI
+### Styling & UI
 
 <p>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-### ⚙️ State & Tools
+### State, Data & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Router-EF4444?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Лоиҳаҳои асосӣ
+# Featured Projects
 
 <div align="center">
 
@@ -78,29 +87,29 @@
 <tr>
 <td width="50%">
 
-## 🚗 RenDrive
+### RentTime
 
-Платформаи каршеринг (иҷораи мошин) барои шаҳри Душанбе.
+A car-sharing platform built for the city of Dushanbe.
 
-✨ Хусусиятҳо:
-- Интегратсияи харитаҳо ва геозонидани Душанбе
-- Системаи иҷораи вақтбайъ
-- Панели маъмурият барои идоракунии мошинҳо
-- Технология: Next.js, PostgreSQL, Node.js
+**Features:**
+- Map integration with Dushanbe geofencing
+- Real-time rental booking system
+- Admin panel for fleet management
+- Stack: Next.js, PostgreSQL, Node.js
 
 </td>
 
 <td width="50%">
 
-## 📸 Social Media Clone
+### Instagram Clone
 
-Клони муосири Instagram бо функсияҳои асосӣ.
+A modern Instagram-like clone with core social features.
 
-✨ Хусусиятҳо:
-- Нашри аксҳо ва лайкҳо
-- Пайравӣ ба корбарон (Follow system)
-- Дизайни мутобиқшаванда (Responsive)
-- Технология: Next.js, React Query, PostgreSQL
+**Features:**
+- Photo posting and likes
+- User follow system
+- Fully responsive design
+- Stack: Next.js, TanStack Query, PostgreSQL
 
 </td>
 </tr>
@@ -108,29 +117,29 @@
 <tr>
 <td width="50%">
 
-## 🛒 E-Commerce Store
+### E-Commerce Store
 
-Мағозаи интернетӣ бо тамаркуз ба UI-и зебо.
+An online store focused on clean UI and smooth UX.
 
-✨ Хусусиятҳо:
-- Сабати харид (Shopping Cart)
-- Филтратсияи маҳсулот
-- Дизайн бо Material UI
-- Интерфейси тез ва қулай
+**Features:**
+- Shopping cart functionality
+- Product filtering & search
+- Material UI design system
+- Fast and intuitive interface
 
 </td>
 
 <td width="50%">
 
-## 💼 LinkedIn Clone
+### LinkedIn Clone
 
-Шабакаи иҷтимоии касбӣ барои корбарон.
+A professional social network for users to connect and grow.
 
-✨ Хусусиятҳо:
-- Сохтани профили касбӣ
-- Нашри мақолаҳо ва хабарҳо
-- Архитектураи App Router
-- Технология: Next.js & Redux Toolkit
+**Features:**
+- Professional profile builder
+- Article and post publishing
+- App Router architecture
+- Stack: Next.js & Redux Toolkit
 
 </td>
 </tr>
@@ -140,16 +149,16 @@
 
 ---
 
-# 🌐 Тамос бо ман
+# Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/alijontoshev">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/alijon-toshev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -158,9 +167,9 @@
 
 <div align="center">
 
-## ⚡️ Developer Quote
+### Developer Quote
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+> *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
 
@@ -168,7 +177,7 @@
 
 <div align="center">
 
-### 💜 Ташаккур барои боздид!
+### Thanks for visiting!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6a00ff,100:00d4ff"/>
 
